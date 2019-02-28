@@ -4,7 +4,7 @@
 code.js within the js folder need to be importent into your html document
 
 ## Dependencies
-jquary must be present in the project.
+jquery must be present in the project.
 
 ## How to use
 You should end up with something like shown below.
@@ -22,5 +22,5 @@ You should end up with something like shown below.
 </body>
 ```
 
-You only require <div/> with the id of #slider that contain all images.
+You only require 'div' with the id of #slider that contain all images.
 The code.js file with make all images 100% width and create a new div with navigation to rotate through the images.
