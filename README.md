@@ -1,4 +1,4 @@
-This project is a jquary picture slider
+### This project is a jquary picture slider
 
 ## Script
 code.js within the js folder need to be importent into your html document
