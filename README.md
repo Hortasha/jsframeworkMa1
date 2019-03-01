@@ -1,12 +1,12 @@
-### This project is a jquary picture slider
+## This project is a jquary picture slider
 
-## Script
+### Script
 jquery-slider.v1.js within the js folder need to be importent into your html document
 
-## Dependencies
+### Dependencies
 jquery must be present in the project.
 
-## How to use
+### How to use
 You should end up with something like shown below.
 
 ```HTML
