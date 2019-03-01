@@ -1,7 +1,7 @@
 ### This project is a jquary picture slider
 
 ## Script
-code.js within the js folder need to be importent into your html document
+jquery-slider.v1.js within the js folder need to be importent into your html document
 
 ## Dependencies
 jquery must be present in the project.
@@ -18,9 +18,9 @@ You should end up with something like shown below.
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="js/code.js"></script>
+    <script src="js/jquery-slider.v1.js"></script>
 </body>
 ```
 
-You only require 'div' with the id of #slider that contain all images.
-The code.js file with make all images 100% width and create a new div with navigation to rotate through the images.
+You only require parent element with the id of #slider that contain all images.
+The jquery-slider.v1.js file with make all images 100% width and create a new div with navigation to rotate through the images underneeth
